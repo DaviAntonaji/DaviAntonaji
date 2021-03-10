@@ -11,20 +11,28 @@
 
 -  💼   I work developing systems, mainly web for more diverse companies
 - 🎓   Formed in Technical Systems Development
+- 🎓 Systems Analysis and Development student at FATEC Presidente Prudente
 - 🤔   I like explore new technologies and developing software solutions and WebSites.
 
 ###### Developing / Studying
 
-- Html
-- JQuery
-- CSS / BootStrap
+- HTML
+- CSS
 - JavaScript
-- C#
-- Delphi
 - PhP
 - Arduino
-- MySQL e Derivados
 - Python
+- PhP
+- Angular
+- RabbitMQ
+- JQuery
+- C#
+- Delphi
+- MySQL and derivatives
+- Java
+- Socket IO
+- Android
+- Domain and DNS configuration
 
 My Portfolio: [Click Here](http://www.antonaji.ga "Click Here")
 
