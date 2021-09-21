@@ -38,7 +38,6 @@
 </div>
   
 <div> 
-  <a href = "mailto:davi@antonaji.com.br"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/email_me_button_icon_151852.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-antonaji-373167188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="http://api.whatsapp.com/send?phone=5518996901394" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
