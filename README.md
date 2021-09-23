@@ -34,6 +34,8 @@
 </div>
 
 
+     
+![github contribution grid snake animation](https://raw.githubusercontent.com/DaviAntonaji/DaviAntonaji/output/github-contribution-grid-snake.svg)
     
 <div> 
   <a href="https://www.linkedin.com/in/davi-antonaji-373167188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -41,7 +43,5 @@
   <a href="https://www.instagram.com/daavi.antonaji" target="_blank"><img src="https://img.shields.io/badge/Instagram-D82B7E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href="https://www.antonaji.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-2B82D8?style=for-the-badge&logo=google&logoColor=white target="_blank"></a> 
 
-     
-   ![github contribution grid snake animation](https://raw.githubusercontent.com/DaviAntonaji/DaviAntonaji/output/github-contribution-grid-snake.svg)
 
 </div>
