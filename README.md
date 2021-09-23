@@ -40,6 +40,8 @@
   <a href="http://api.whatsapp.com/send?phone=5518996901394" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/daavi.antonaji" target="_blank"><img src="https://img.shields.io/badge/Instagram-D82B7E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href="https://www.antonaji.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-2B82D8?style=for-the-badge&logo=google&logoColor=white target="_blank"></a> 
+ ![Snake animation](https://github.com/DaviAntonaji/DaviAntonaji/blob/output/github-contribution-grid-snake.svg) 
+     
   
 
  
