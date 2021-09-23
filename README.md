@@ -42,8 +42,6 @@
    <a href="https://www.antonaji.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-2B82D8?style=for-the-badge&logo=google&logoColor=white target="_blank"></a> 
 
      
-  
-
- 
+   ![github contribution grid snake animation](https://raw.githubusercontent.com/DaviAntonaji/DaviAntonaji/output/github-contribution-grid-snake.svg)
 
 </div>
