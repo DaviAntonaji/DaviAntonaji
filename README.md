@@ -29,11 +29,7 @@
   <img src="https://img.shields.io/badge/-Java-EC2025?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white">
   
-   <img src="https://img.shields.io/badge/-css-0C4775?style=for-the-badge&logo=css3&logoColor=white">
-  
-   <img src="https://img.shields.io/badge/-css-0C4775?style=for-the-badge&logo=css3&logoColor=white">
-  
-   <img src="https://img.shields.io/badge/-css-0C4775?style=for-the-badge&logo=css3&logoColor=white">
+
 
  </div>
 
