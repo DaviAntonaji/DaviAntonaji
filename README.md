@@ -11,22 +11,32 @@
 - 🤔 I like explore new technologies and developing software solutions and WebSites.
 
 ###### Developing / Studying
-- 🐍 Python & Data Science ♥
-- 💻 HTML
-- 💻 CSS
-- 💻 JavaScript
-- 💻 PhP
-- 💻Arduino
-- 💻 Angular
-- 💻 RabbitMQ
-- 💻 JQuery
-- 💻 C#
-- 💻 Delphi
-- 💾 MySQL and derivatives
--  📱 Java
-- 🖥 Socket IO
-- 👨‍💻 Linux
-- Domain and DNS configuration
+<div>
+  
+  
+  <img src="https://img.shields.io/badge/-python-3476AA?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-css-0C4775?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="  https://img.shields.io/badge/-JavaScript-AD9F00?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-PhP-7377AD?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/-Angular-C4002B?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/-JQuery-0868AC?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQLite-ff0000?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-0000ff?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-EC2025?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white">
+  
+   <img src="https://img.shields.io/badge/-css-0C4775?style=for-the-badge&logo=css3&logoColor=white">
+  
+   <img src="https://img.shields.io/badge/-css-0C4775?style=for-the-badge&logo=css3&logoColor=white">
+  
+   <img src="https://img.shields.io/badge/-css-0C4775?style=for-the-badge&logo=css3&logoColor=white">
+
+ </div>
+
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaviAntonaji&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
