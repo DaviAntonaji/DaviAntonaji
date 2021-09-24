@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-0000ff?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-EC2025?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white">
-    <img src="  https://img.shields.io/badge/-Shell-3f3f3f?style=for-the-badge&logo=shell&logoColor=white">
+  <img src="  https://img.shields.io/badge/-Shell-3f3f3f?style=for-the-badge&logo=shell&logoColor=white">
 
   
 
