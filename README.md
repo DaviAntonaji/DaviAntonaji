@@ -39,8 +39,8 @@
 
 
 <div>
-  <img height="150em" width="100em" src="https://github-readme-stats.vercel.app/api?username=DaviAntonaji&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAntonaji&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api?username=DaviAntonaji&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAntonaji&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 
