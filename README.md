@@ -49,12 +49,17 @@
     
 <div> 
   <a href="https://www.linkedin.com/in/davi-antonaji-373167188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   <a href="http://api.whatsapp.com/send?phone=5518996901394" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
   <a href="https://www.instagram.com/daavi.antonaji" target="_blank"><img src="https://img.shields.io/badge/Instagram-D82B7E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-   <a href="https://www.antonaji.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-122f4d?style=for-the-badge&logo=google&logoColor=white"></a> 
-     
+  
+  
  <a href="https://www.facebook.com/davi.antonaji.33/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0C87EF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 
   <a href="https://twitter.com/DaaviAntonaji" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  
+   <a href="https://www.antonaji.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-122f4d?style=for-the-badge&logo=google&logoColor=white"></a> 
+     
      
 </div>
