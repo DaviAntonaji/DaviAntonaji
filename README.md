@@ -11,7 +11,7 @@
 - 🤔 I like explore new technologies and developing software solutions and WebSites.
 
 ###### Developing / Studying
-<div style="text-align: center;">
+<div style="margin: 0 auto;">
   
   
   <img src="https://img.shields.io/badge/-python-3476AA?style=for-the-badge&logo=python&logoColor=white">
