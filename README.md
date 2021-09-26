@@ -53,8 +53,8 @@
   <a href="https://www.instagram.com/daavi.antonaji" target="_blank"><img src="https://img.shields.io/badge/Instagram-D82B7E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href="https://www.antonaji.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-122f4d?style=for-the-badge&logo=google&logoColor=white"></a> 
      
- <a href="https://www.facebook.com/davi.antonaji.33/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0C87EF?style=for-the-badge&logo=facebook&logoColor=white"></a> 
+ <a href="https://www.facebook.com/davi.antonaji.33/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0C87EF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 
-  <a href="https://twitter.com/DaaviAntonaji" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+  <a href="https://twitter.com/DaaviAntonaji" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
      
 </div>
