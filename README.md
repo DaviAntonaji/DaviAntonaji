@@ -1,6 +1,6 @@
 ### Welcome to my repositories! Here I keep my studies and projects from day to day. 😁
 ------------
-##### Hello! My name is Davi de Melo Antonaji
+##### Hello! My name is Davi de Melo Antonaji. I am an entrepreneur in the technology area, I own the company Antonaji Tecnologia, I am a student in systems analysis and development at FATEC in Presidente Prudente
 
 
 ###### 👨🏻‍💻 About me
