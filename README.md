@@ -1,50 +1,63 @@
-### Welcome to my repositories! Here I keep my studies and projects from day to day. 😁
-------------
-##### Hello! My name is Davi de Melo Antonaji. I am an entrepreneur in the technology area, I own the company Antonaji Tecnologia, I am a student in systems analysis and development at FATEC in Presidente Prudente
+<h2 align="left">Welcome to my repositories! Here I keep my studies and projects from day to day. 😁</h2>
 
+###
 
-###### 👨🏻‍💻 About me
+<p align="left">Hello! My name is Davi de Melo Antonaji. I am an entrepreneur in the technology area, I own the company Antonaji Tecnologia, I am a student in systems analysis and development at FATEC in Presidente Prudente</p>
 
-- 💼 I work developing systems, mainly web for more diverse companies
-- 🎓 Formed in Technical Systems Development
-- 🎓 Systems Analysis and Development student at FATEC Presidente Prudente
-- 🤔 I like explore new technologies and developing software solutions and WebSites.
+###
 
-###### Developing / Studying
-<div style="display: flex;align-items: center;justify-content: center;">
-  
-  
-  
-  <img src="https://img.shields.io/badge/-python-3476AA?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-css-0C4775?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="  https://img.shields.io/badge/-JavaScript-AD9F00?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-PhP-7377AD?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/-Angular-C4002B?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/-JQuery-0868AC?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQLite-ff0000?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-0000ff?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-EC2025?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/-ShellScript-3f3f3f?style=for-the-badge&logo=shell&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<h2 align="left">👨🏻‍💻About me</h2>
 
-  
-  
+###
 
+<p align="left">💼 I work developing systems, mainly web for more diverse companies<br>🎓 Formed in Technical Systems Development<br>🎓 Systems Analysis and Development student at FATEC Presidente Prudente<br>🤔 I like explore new technologies and developing software solutions and WebSites.</p>
 
- </div>
+###
 
+<h2 align="left">Developing / Studying</h2>
 
-<div>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+</div>
+
+###
+
+<h2 align="left">My github stats</h2>
+
+###
+
+<div align="center">
   <img height="175em"  src="https://github-readme-stats.vercel.app/api?username=DaviAntonaji&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAntonaji&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+###
 
-     
 ![github contribution grid snake animation](https://raw.githubusercontent.com/DaviAntonaji/DaviAntonaji/output/github-contribution-grid-snake.svg)
-    
+
+###
