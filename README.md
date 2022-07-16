@@ -15,7 +15,7 @@
 ###
 
 
-<h2 align="left">Contact me</h2>
+<h2 align="left">📞 Contact me</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">Developing / Studying</h2>
+<h2 align="left">💻 Developing / Studying</h2>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h2 align="left">My github stats</h2>
+<h2 align="left">📊 My github stats</h2>
 
 ###
 
