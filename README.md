@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! My name is Davi de Melo Antonaji. I am an entrepreneur in the technology area, I own the company Antonaji Tecnologia, I am a student in systems analysis and development at FATEC in Presidente Prudente</p>
+<p align="left">HellHello! My name is Davi de Melo Antonaji and I currently work as a Junior Infrastructure Analyst at SantoroIN, a company located in the city of Pirapozinho. I am registered as a CLT and my responsibilities include supporting and maintaining infrastructure systems. In addition, I am studying Systems Analysis and Development at FATEC in Presidente Prudente. While I do own a company called Antonaji Tecnologia, I am not currently actively involved in its operations.</p>
 
 ###
 
@@ -44,6 +44,9 @@
 ###
 
 <div align="left">
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="debian logo />
+  <img src="  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="terraform logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
