@@ -4,9 +4,6 @@
 
 
 
-[<img align="left" height="94px" width="94px" alt="SantoroIN" src="https://intranet.santoro.in/mysql57/themes/pmahomme/img/logo_left.png"/>](https://www.santoro.in)
-
-
       
 <p align="left">Hello! My name is Davi de Melo Antonaji and I currently work as a Junior Infrastructure Analyst at SantoroIN, a company located in the city of Pirapozinho. I am registered as a CLT and my responsibilities include supporting and maintaining infrastructure systems. In addition, I am studying Systems Analysis and Development at FATEC in Presidente Prudente. While I do own a company called Antonaji Tecnologia, I am not currently actively involved in its operations.</p>
 
@@ -18,6 +15,9 @@
 <h2 align="left">👨🏻‍💻About me</h2>
 
 ###
+
+
+[<img align="left" height="94px" width="94px" alt="SantoroIN" src="https://intranet.santoro.in/mysql57/themes/pmahomme/img/logo_left.png"/>](https://www.santoro.in)
 
 <p align="left">💼 I work developing systems, mainly web for more diverse companies<br>🎓 Formed in Technical Systems Development<br>🎓 Systems Analysis and Development student at FATEC Presidente Prudente<br>🤔 I like explore new technologies and developing software solutions and WebSites.</p>
 
