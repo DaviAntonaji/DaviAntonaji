@@ -1,8 +1,9 @@
-<h2 align="left">Welcome to my repositories! Here I keep my studies and projects from day to day. 😁</h2>
+<h2 align="left">Bem-vindo aos meus repositórios! Aqui eu mantenho meus estudos e projetos do dia a dia. 😁</h2>
 
 ###
 
 <h2 align="left">👨🏻‍💻Sobre mim</h2>
+
 [<img align="left" height="94px" width="94px" alt="SantoroIN" src="https://intranet.santoro.in/mysql57/themes/pmahomme/img/logo_left.png"/>](https://www.santoro.in)
 
 
