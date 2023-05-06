@@ -2,28 +2,22 @@
 
 ###
 
+<h2 align="left">👨🏻‍💻Sobre mim</h2>
 [<img align="left" height="94px" width="94px" alt="SantoroIN" src="https://intranet.santoro.in/mysql57/themes/pmahomme/img/logo_left.png"/>](https://www.santoro.in)
 
 
-[<img align="right" height="94px" width="94px" alt="SantoroIN" src="https://antonaji.com.br/img/favicon.png"/>](https://www.antonaji.com.br)
 
       
-<p align="left">Hello! My name is Davi de Melo Antonaji and I currently work as a Junior Infrastructure Analyst at SantoroIN, a company located in the city of Pirapozinho. I am registered as a CLT and my responsibilities include supporting and maintaining infrastructure systems. In addition, I am studying Systems Analysis and Development at FATEC in Presidente Prudente. While I do own a company called Antonaji Tecnologia, I am not currently actively involved in its operations.</p>
+<p align="justify">Olá! Meu nome é Davi de Melo Antonaji e atualmente trabalho como Analista de Infraestrutura Júnior na SantoroIN, uma empresa localizada na cidade de Pirapozinho. Estou registrado como CLT e minhas responsabilidades incluem suporte e manutenção de sistemas de infraestrutura. Além disso, estou estudando Análise e Desenvolvimento de Sistemas na FATEC em Presidente Prudente. Embora eu possua uma empresa chamada Antonaji Tecnologia, atualmente não estou envolvido ativamente em suas operações.</p>
 
 
-###
-
-<h2 align="left">👨🏻‍💻About me</h2>
-
-###
-
-
-<p align="left">💼 I work developing systems, mainly web for more diverse companies<br>🎓 Formed in Technical Systems Development<br>🎓 Systems Analysis and Development student at FATEC Presidente Prudente<br>🤔 I like explore new technologies and developing software solutions and WebSites.</p>
+[<img align="right" height="94px" width="94px" alt="SantoroIN" src="https://antonaji.com.br/img/favicon.png"/>](https://www.antonaji.com.br)
+<p align="justify">💼 Sou um profissional de Tecnologia da Informação com experiência em infraestrutura, tanto física quanto em cloud. Minha especialidade é configurar servidores FTP, Samba, Web e outras aplicações para garantir que a infraestrutura esteja funcionando de maneira eficiente. Além disso, possuo conhecimentos em desenvolvimento back-end, front-end e mobile. Embora eu tenha experiência nessas áreas, minha especialidade é na área de infraestrutura e back-end, onde posso aplicar meus conhecimentos e habilidades para garantir a disponibilidade, segurança e escalabilidade dos sistemas. Estou sempre em busca de novas tecnologias e ferramentas para aprimorar meu trabalho e entregar soluções de alta qualidade para os clientes..</p>
 
 ###
 
 
-<h2 align="left">📞 Contact me</h2>
+<h2 align="left">📞 Contate-me</h2>
 
 ###
 
@@ -47,7 +41,7 @@
 
 ###
 
-<h2 align="left">💻 Developing / Studying</h2>
+<h2 align="left">💻 Desenvolvendo/Estudando</h2>
 
 ###
 
@@ -83,7 +77,7 @@
 
 ###
 
-<h2 align="left">📊 My github stats</h2>
+<h2 align="left">📊 Estatística</h2>
 
 ###
 
