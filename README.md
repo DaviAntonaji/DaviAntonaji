@@ -99,6 +99,6 @@
 
 ###
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/DaviAntonaji/DaviAntonaji/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/DaviAntonaji/DaviAntonaji/output/github-contribution-grid-snake-dark.svg)
 
 ###
