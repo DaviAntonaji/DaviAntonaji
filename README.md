@@ -1,6 +1,8 @@
 <h2 align="left">Bem-vindo aos meus repositórios! Aqui eu mantenho meus estudos e projetos do dia a dia. 😁</h2>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DaviAntonaji&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+
 
 <h2 align="left">👨🏻‍💻Sobre mim</h2>
 
