@@ -49,7 +49,7 @@
 ###
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazon web services(aws) logo" />  
+<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" height="40" width="52" alt="amazon web services(aws) logo" />  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="google cloud logo" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="debian logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="terraform logo"  />
