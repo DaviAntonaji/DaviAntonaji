@@ -11,7 +11,7 @@
 
 
       
-<p align="justify">Olá! Meu nome é Davi de Melo Antonaji e atualmente trabalho como Analista de Infraestrutura Pleno na SantoroIN, uma empresa localizada na cidade de Pirapozinho. Estou registrado como CLT e minhas responsabilidades incluem suporte e manutenção de sistemas de infraestrutura. Além disso, estou estudando Análise e Desenvolvimento de Sistemas na FATEC em Presidente Prudente.</p>
+<p align="justify">Olá! Meu nome é Davi de Melo Antonaji e atualmente trabalho como Analista de Infraestrutura Pleno na SantoroIN, uma empresa localizada na cidade de Pirapozinho. Estou registrado como CLT e minhas responsabilidades incluem suporte e manutenção de sistemas de infraestrutura. Além disso sou formado em Análise e Desenvolvimento de Sistemas na FATEC em Presidente Prudente.</p>
 
 
 [<img align="right" height="94px" width="94px" alt="SantoroIN" src="https://antonaji.com.br/img/favicon.png"/>](https://www.antonaji.com.br)
