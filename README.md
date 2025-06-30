@@ -15,7 +15,7 @@
 
 
 [<img align="right" height="94px" width="94px" alt="SantoroIN" src="https://www.antonaji.com.br/assets/img/favicon.png"/>](https://www.antonaji.com.br)
-<p align="justify">Sou um profissional de Tecnologia da Informação com experiência em infraestrutura, tanto física quanto em cloud. Minha especialidade é configurar servidores FTP, Samba, Web e outras aplicações para garantir que a infraestrutura esteja funcionando de maneira eficiente. Além disso, possuo conhecimentos em desenvolvimento back-end, front-end e mobile. Embora eu tenha experiência nessas áreas, minha especialidade é na área de infraestrutura e back-end, onde posso aplicar meus conhecimentos e habilidades para garantir a disponibilidade, segurança e escalabilidade dos sistemas. Estou sempre em busca de novas tecnologias e ferramentas para aprimorar meu trabalho e entregar soluções de alta qualidade para os clientes..</p>
+<p align="justify">Sou um profissional de Tecnologia da Informação com experiência em infraestrutura, tanto física quanto em cloud. Minha especialidade é configurar servidores FTP, Samba, Web e outras aplicações para garantir que a infraestrutura esteja funcionando de maneira eficiente. Além disso, possuo conhecimentos em desenvolvimento back-end, front-end e mobile. Embora eu tenha experiência nessas áreas, minha especialidade é na área de infraestrutura e back-end, onde posso aplicar meus conhecimentos e habilidades para garantir a disponibilidade, segurança e escalabilidade dos sistemas. Estou sempre em busca de novas tecnologias e ferramentas para aprimorar meu trabalho e entregar soluções de alta qualidade para os clientes.</p>
 
 ###
 
