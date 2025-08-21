@@ -1,0 +1,6 @@
+# Lista de domínios permitidos manualmente
+# Um domínio por linha, comentários começam com #
+
+api.ipify.org
+ipinfo.io
+ipv4.icanhazip.com
